@@ -38,13 +38,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jsug9/project-name.git"
+    "url": "git+https://github.com/Alexr16/project-name.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jsug9/project-name/issues"
+    "url": "https://github.com/Alexr16/project-name/issues"
   },
-  "homepage": "https://github.com/jsug9/project-name#readme"
+  "homepage": "https://github.com/Alexr16/project-name#readme"
 }
