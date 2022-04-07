@@ -31,6 +31,7 @@ To get a local copy of the project, follow these steps:
  ```
  cd project-name
  ```
+ 
 ## Run project
 
 ```bash
@@ -39,9 +40,11 @@ $ npm run start # this will make webpack watching for your changes in code
 ```
 
 ### Open page in browser
+
 ```bash
 $ open dist/index.html
 ```
+
 ## Author
 
 👤 **George**
@@ -55,6 +58,7 @@ $ open dist/index.html
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/Alexr16/project-name/issues).
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
