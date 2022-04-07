@@ -3,6 +3,10 @@ Replace "project-name" for your project's name, you can do that by pressing the 
 
 Webpack
 npm install webpack webpack-cli --save-dev
+npm install --save-dev html-webpack-plugin
+npm install --save-dev style-loader css-loader
+npm install sass-loader sass webpack --save-dev
+npm install --save-dev webpack-dev-server
 npm add gh-pages --develop
 
 Linters Installation
