@@ -2,7 +2,9 @@ Setup
 Replace "project-name" for your project's name, you can do that by pressing the search button on the left navbar.
 
 Webpack
+npm init -y
 npm install webpack webpack-cli --save-dev
+npm install --save lodash
 npm install --save-dev html-webpack-plugin
 npm install --save-dev style-loader css-loader
 npm install sass-loader sass webpack --save-dev
